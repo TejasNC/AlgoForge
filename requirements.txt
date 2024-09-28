@@ -1,0 +1,6 @@
+numpy
+pandas
+ta-lib
+yfinance
+backtesting.py
+tvDatafeed
